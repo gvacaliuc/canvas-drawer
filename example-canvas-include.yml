@@ -1,0 +1,6 @@
+canvas_url: "https://canvas.rice.edu"
+api_key: <secret>
+course_id: 10477
+assignment_id: 66997
+files:
+  - "hw4.pdf"
